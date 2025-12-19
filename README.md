@@ -24,3 +24,8 @@ To understand sales performance across products and outlets and support data-dri
 - Data Modeling
 
 ---
+
+#### 📊 Dashboard Preview
+
+![Blinkit Sales Dashboard](https://github.com/saideepika-29/blinkit-Sales-Analysis/blob/main/dashboard.png)
+
